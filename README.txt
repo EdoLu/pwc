@@ -23,3 +23,5 @@ rely on the relative 'Example.html' generated file.
 
 ###################################################################################################################################
 
+Main Reference:
+https://www.researchgate.net/publication/336473464_Density_estimation_of_multivariate_samples_using_Wasserstein_distance/citations
