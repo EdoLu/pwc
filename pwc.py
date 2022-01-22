@@ -190,7 +190,7 @@ class PWCDistribution:
 
     def get_reference_critical(self, verbose, tolerance=0.01, confidence=0.90):
         """
-	Function that estimate via simulation the 1-alpha level critical value of the test statistic distribution.
+	Function that estimates via simulation the 1-alpha level critical value of the test statistic distribution.
 	The number of simulation is determined in such a way that there is at least 'confidence' confidence that the estimated quantile does not differ by more than 'tolerance' from the true value.
         See Section 5.2 in Meeker, Hahn and Escobar (2017). Statistical Intervals: A Guide for Practitioners and Researchers. Wiley Series in Probability and Statistics. Wiley, 2nd edition.
         """
